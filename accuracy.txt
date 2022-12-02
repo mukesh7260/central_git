@@ -1,0 +1,17 @@
+
+ 4. Ans: - we need to apply PCA algorithm in the image of 8 . because this picture is not co-related 	
+	   picture , so that's why PCA algorithm should be apply. 
+
+ 4(1) ans: - Check the accuracy : - Accuracy score is calculated by dividing the number of correct              predictions by the total number of predictions. 
+					
+					 dividing the number of correct prediction			
+		     Accuracy = 	___________________________________________
+					  Total number of predictions 
+
+	
+ 4(11) ans: - If accuracy is low then a lots of way imporve accuracy level such as : - 
+		a. Add more data in the picture 8 . 
+		b. Treat missing & outlier values. 
+		c. Feature engineering : - In the feature engineering we can modify the data using 		   some feature transformation & feature creations in the picture 8 .
+		d. Feature selection : - In feature selection we can use virtutalization & domain 
+		   knowledge. 						
